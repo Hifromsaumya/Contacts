@@ -1,0 +1,11 @@
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\bin\Debug\ContactListData.accdb
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\bin\Debug\Visual_ContactList.exe.config
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\bin\Debug\Visual_ContactList.exe
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\bin\Debug\Visual_ContactList.pdb
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\obj\Debug\Visual_ContactList.csproj.AssemblyReference.cache
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\obj\Debug\Visual_ContactList.frmContactList.resources
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\obj\Debug\Visual_ContactList.Properties.Resources.resources
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\obj\Debug\Visual_ContactList.csproj.GenerateResource.cache
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\obj\Debug\Visual_ContactList.csproj.CoreCompileInputs.cache
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\obj\Debug\Visual_ContactList.exe
+C:\Users\krich\source\repos\Visual_ContactList\Visual_ContactList\obj\Debug\Visual_ContactList.pdb
